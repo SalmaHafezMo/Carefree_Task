@@ -7,7 +7,7 @@ check This Link online sheet :https://docs.google.com/spreadsheets/d/1YYDR-VrV_o
     Bugs 
     Static testing 
 ------------------------------------------------------------------------------------------------------------------------------  
-#Automation Task 
+# Automation Task 
   1- The Task contains code to test [Signup & Verify & Login APIs ].
   2- The task contains code to test [ Valid scenario of signup & verify & Login ] with valid data.
   3- Pom.xml file 
